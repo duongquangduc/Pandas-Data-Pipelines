@@ -4,9 +4,10 @@
 ## Introduction
 Pandas is a common library in the Python ecosystem for data analytics and machine learning.
 
-![pipeline](https://user-images.githubusercontent.com/28558875/82821899-18388e80-9ecf-11ea-9746-74bbc08c32aa.jpg)
+![data-pipeline](https://user-images.githubusercontent.com/28558875/82822589-3c489f80-9ed0-11ea-9081-e0958850d24d.jpg)
 
 ## Folder Structure
+<pre>
 datasource
 |-USA_Housing.csv
 repository
@@ -14,6 +15,7 @@ repository
 |-.ipynb_checkpoints
 README.md
 requirement.txt
+</pre>
 
 ## Pipelineing with Pandas
 Check the Jupyter Notebook.
